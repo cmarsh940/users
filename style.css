@@ -1,0 +1,33 @@
+/* reset css */
+* {
+	padding: 0px;
+	margin: 10px;
+}
+
+body {
+	width: 900px;
+}
+
+table {
+    border: 2px solid;
+    width:400px;
+}
+
+form {
+	width: 300px;
+    white-space: pre-line;
+    margin: 20px;
+    border-top: 2px solid;
+    text-align: right;
+}
+input {
+    width: 100px;
+    resize: none;
+
+}
+
+input[type=submit] {
+	background-color: lightgrey;
+    width: 70px;
+    border: 1px solid;
+}
